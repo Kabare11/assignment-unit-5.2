@@ -1,3 +1,9 @@
+body {
+  background-image: url("record.png");
+  background-repeat: repeat;
+  margin: 0;
+}
+
 .header {
   background-color: darkgray;
   color: lightcoral;
@@ -5,4 +11,5 @@
 }
 .main {
   background-color: lightgray;
+  padding: 1em;
 }
